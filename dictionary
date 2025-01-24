@@ -1,0 +1,11 @@
+l=[]
+l1=['id','name','class']
+for i in range(3):
+    d1={}
+    for key in l1:
+        value=input('f enter the value for the  {key}:')
+        d1[key]=value
+    l.append(d1)
+
+for i in l:
+    print(i)
