@@ -1,0 +1,1 @@
+Here i create a code for giving value for key, we have store key in a list than create a loop for range of 3, so that we can add 3 dictionary and in list, i take 3 key id, name, class and we take value from user and than last i print 3 dictionary with 3 key values.
